@@ -11,7 +11,7 @@ Resource for new faculty (perspective: Cornell University, MSE)
 * [Cottrell Scholar Award](https://rescorp.org/cottrell-scholars/cottrell-scholar-award) (within 3 years of appointment; appointment in chemistry / physics / astronomy)
 
 2. Grants with limited eligibility measured by years after receiving a PhD:
-* [Department of Defense (DOD) Air Force Office of Scientific Research (AFOSR) Young Investigator Research Program (YIP)](https://community.apan.org/wg/afosr/w/researchareas/12792/young-investigator-program-yip/) (only U.S. citizen, national or permanent resident)
+* [Department of Defense (DOD) Air Force Office of Scientific Research (AFOSR) Young Investigator Research Program (YIP)](https://community.apan.org/wg/afosr/w/researchareas/12792/young-investigator-program-yip/) (within 7 years of PhD; only U.S. citizen, national or permanent resident)
 * [Department of Defense (DOD) Army Research Office (ARO) Young Investigator Program (YIP)]() (only U.S. citizen, national or permanent resident)
 * [Department of Defense (DOD) Office of Naval Research (ONR) Young Investigator Program (YIP)](https://www.nre.navy.mil/education-outreach/sponsored-research/yip) (within 7 years of PhD; only U.S. citizen, national or permanent resident)
 * [Department of Energy (DOE) Early Career Research Program](https://science.osti.gov/early-career) (max. three applications; within 10 years of PhD)
